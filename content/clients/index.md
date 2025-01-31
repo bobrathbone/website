@@ -135,6 +135,9 @@ written in Go with vi-like interface.
 
 [alexa-mpd-skill](https://github.com/stengland/alexa-mpd-skill) - A simple Alexa skill for controlling MPD
 
+## Internet Radio
+[piradio](https://github.com/bobrathbone/piradio6) Fully functional Internet Radio running on Raspberry Pi
+
 ## Unmaintained Clients
 
 [ario](http://ario-player.sourceforge.net/) - Another GTK based client.
